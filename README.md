@@ -43,3 +43,7 @@ Initiating test sequence
 ```
 
 For more details, refer to source file [EchoTest.py](EchoTest.py).
+
+## License
+
+Copyright © 2016 [Synapse Wireless](http://www.synapse-wireless.com/), licensed under the [Apache License v2.0](LICENSE.md).
